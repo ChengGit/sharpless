@@ -1,0 +1,10 @@
+addSbtCoursier
+addSbtPlugin("com.dwijnand"       % "sbt-dynver"                % "3.1.0")
+addSbtPlugin("com.mintbeans"      % "sbt-ecr"                   % "0.13.0")
+addSbtPlugin("com.eed3si9n"       % "sbt-assembly"              % "0.14.9")
+addSbtPlugin("com.github.cb372"   % "sbt-explicit-dependencies" % "0.2.6")
+addSbtPlugin("org.lyranthe.sbt"   % "partial-unification"       % "1.1.2")
+addSbtPlugin("com.dwijnand"       % "sbt-dynver"                % "3.1.0")
+addSbtPlugin("org.lyranthe.sbt"   % "partial-unification"       % "1.1.2")
+addSbtPlugin("com.typesafe.sbt"   % "sbt-native-packager"       % "1.3.17")
+addSbtPlugin("com.geirsson"       % "sbt-scalafmt"              % "1.5.1")
