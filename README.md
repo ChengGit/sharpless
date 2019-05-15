@@ -40,7 +40,7 @@ printing the platform instance converted by type class `PolyConverter` Platform(
  ```
    
  # Limitations
- this project is in very early stages so refactorings and re-structuring will be expected as on-going process.
+ this project is in a very early stage so refactorings and re-structuring will be expected as on-going process.
  
  # Todo list
  - [ ] Align
